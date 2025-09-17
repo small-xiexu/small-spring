@@ -4,7 +4,9 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
+ * 代表了 Bean 对象的工厂，可以存放 Bean 定义到 Map 中以及获取
+ *
+ * @author sxie
  */
 public class BeanFactory {
 

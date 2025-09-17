@@ -1,7 +1,8 @@
 package cn.bugstack.springframework;
 
 /**
- * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
+ * 用于定义 Bean 实例化信息
+ * @author sxie
  */
 public class BeanDefinition {
 
